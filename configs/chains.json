@@ -1,6 +1,6 @@
 {
-  "robinhood": {
-    "chainId": 4663
+  "bsc": {
+    "chainId": 56
   },
   "bsc": {
     "chainId": 56

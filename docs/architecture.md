@@ -3,7 +3,7 @@
 agentic-stock-trading is organized around a core engine plus adapters:
 
 - **core/** — chain-agnostic logic
-- **integrations/** — RH / BSC / EVM / Virtuals adapters
+- **integrations/** — BSC / BSC / EVM / Virtuals adapters
 - **examples/** — runnable end-to-end flows
 
 See `docs/` for detailed design notes.
